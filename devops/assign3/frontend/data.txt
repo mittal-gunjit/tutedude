@@ -1,0 +1,5 @@
+{
+    "Alice": "A",
+    "Bob": "B",
+    "Charlie": "C",
+}
